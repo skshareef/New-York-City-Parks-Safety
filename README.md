@@ -34,7 +34,7 @@ The project delivers the following:
 
 - Interactive visualization showcasing crime incidents at NYC parks during the first quarter of 2018, featuring an engaging map display.
 - Insights and recommendations to support efforts for safer parks.
-- ![Average Annual Salary by County](images/imag4.png)
+- ![Average Annual Salary by County](images/img4.png)
 
 
 ## How to Use
